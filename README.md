@@ -7,9 +7,7 @@
 - 💬 Ask me about **All Things DevOps**
 - ⚡ Fun fact **Living is Awesome...**
 
-Contact me at: <a href="https://linkedin.com/in/orenzipori" target="blank"><img alt="My LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </p>
-
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> 
+<h3 align="left"> Contact me at: </h3> <a href="https://linkedin.com/in/orenzipori" target="blank"><img alt="My LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </p>
 
 <p align="center"><h2 align="center">Coding & Scripts</h2>
 <p align="center"><img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> 
