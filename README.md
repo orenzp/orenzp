@@ -1,35 +1,39 @@
 <h1 align="center">Hi 👋, My name is Oren Zipori</h1>
-<h3 align="center">An ex IT Admin turn DevOps Engineer and i never looked back.</h3>
+<h3 align="center">An ex Windows Sys-Admin turned DevOps Engineer and I never looked back.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orenzp&label=Profile%20views&color=0e75b6&style=flat" alt="orenzp" /> </p>
+<a href="https://linkedin.com/in/orenzipori" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </p><p align="left"> <img src="https://komarev.com/ghpvc/?username=orenzp&label=Profile%20views&color=0e75b6&style=flat" alt="orenzp" /> </p>
 
-- 🔭 I’m currently working on **Self-Hosting Project**
-
+- 🔭 I’m currently working on **Self-Hosting Kubernetes Project**
 - 🌱 I’m currently learning **FluxCD GitOps toolbox**
-
-- 💬 Ask me about **DevOps philosopy**
-
-- 📫 How to reach me **https://www.linkedin.com/in/orenzipori/**
-
+- 💬 Ask me about **All Things DevOps**
 - ⚡ Fun fact **Living is Awesome...**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/orenzipori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="orenzipori" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orenzp&show_icons=true&locale=en" alt="orenzp" /></p>
+<p align="center"><h3 align="center">Languages and Tools:</h3>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Rancher" src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=orenzp&show_icons=true&locale=en" alt="orenzp"/>
 
 <!--
 **orenzp/orenzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 https://www.youtube.com/watch?v=n6d4KHSKqGk&t=0s
 https://simpleicons.org/
-
+https://github.com/badges/shields
 https://shields.io/
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://github.com/Ileriayo/markdown-badges
+https://github.com/marketplace/actions/github-activity-readme
+
+
 
 Here are some ideas to get you started:
 
@@ -41,7 +45,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
-
 
 [About READMEs - GitHub Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes)
