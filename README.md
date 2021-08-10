@@ -40,13 +40,7 @@
 </p>
 <hr>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=orenzp&show_icons=true&locale=en" alt="orenzp"/>
-
-<p> <img src="https://komarev.com/ghpvc/?username=orenzp&label=Profile%20views&color=0e75b6&style=flat" alt="orenzp" /> <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" /> </p>
-
 <!--
-**orenzp/orenzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 https://www.youtube.com/watch?v=n6d4KHSKqGk&t=0s
 https://simpleicons.org/
 https://github.com/badges/shields
@@ -54,18 +48,6 @@ https://shields.io/
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 https://github.com/Ileriayo/markdown-badges
 https://github.com/marketplace/actions/github-activity-readme
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 -->
 
 [About READMEs - GitHub Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes)
