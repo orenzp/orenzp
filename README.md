@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,linux,python,bash,git,vscode,vim,jenkins,githubactions,postman,raspberrypi,md&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,linux,py,bash,git,vscode,vim,jenkins,githubactions,postman,raspberrypi,md&perline=8" alt="My Skills" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=orenzp&theme=transparent&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="Oren's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=orenzp&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="Oren's Trophies" />
 </div>
 
 ---
