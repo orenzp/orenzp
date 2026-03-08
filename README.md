@@ -38,6 +38,38 @@
 
 ---
 
+### 🏠 Home Lab Setup
+
+<div align="center">
+
+```mermaid
+graph TD
+    subgraph GitHub ["GitHub & GitOps"]
+        Config["Cluster Config (YAML)"]
+    end
+
+    subgraph Cluster ["Home Lab Cluster (K8s)"]
+        Flux["FluxCD (GitOps Operator)"]
+        
+        subgraph Apps ["Self-Hosted Applications"]
+            HA["🏠 Home Assistant"]
+            PH["🛡️ Pi-Hole"]
+        end
+    end
+
+    Config -- "Syncs with" --> Flux
+    Flux -- "Deploys & Reconciles" --> HA
+    Flux -- "Deploys & Reconciles" --> PH
+
+    style GitHub fill:#171515,stroke:#fff,stroke-width:2px,color:#fff
+    style Cluster fill:#326ce5,stroke:#fff,stroke-width:2px,color:#fff
+    style Apps fill:#0077B5,stroke:#fff,stroke-width:2px,color:#fff
+```
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
